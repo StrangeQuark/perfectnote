@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-perfectnote-dev-180836-authRole",
+      "UnauthRoleArn": "arn:aws:iam::144195769843:role/amplify-perfectnote-dev-180836-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::144195769843:role/amplify-perfectnote-dev-180836-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-perfectnote-dev-180836-deployment",
+      "UnauthRoleName": "amplify-perfectnote-dev-180836-unauthRole",
+      "StackName": "amplify-perfectnote-dev-180836",
+      "StackId": "arn:aws:cloudformation:us-east-2:144195769843:stack/amplify-perfectnote-dev-180836/500e8af0-710c-11ed-aaf1-0a6f34c54988",
+      "AmplifyAppId": "d24epiza4b1tvn"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d24epiza4b1tvn",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
